@@ -1,1 +1,1 @@
-# Praktikum-Algoritman-dan-Pemrograman
+# Praktikum-Algoritma-dan-Pemrograman
